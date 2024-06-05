@@ -5,5 +5,5 @@ This project involves exploratory data analysis and machine learning on the Tita
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Titanic-Data-Analysis.git
+   git clone https://github.com/azadkumaranand/Titanic-Data-Analysis.git
    cd Titanic-Data-Analysis
